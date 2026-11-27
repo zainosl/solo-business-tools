@@ -1,7 +1,0 @@
-.DS_Store
-private/
-.env
-.env.*
-*.json
-!examples/*.example.json
-node_modules/
