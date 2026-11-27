@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "tasks": [
+    {"title": "今天发出工作坊报价", "category": "客户跟进", "quadrant": "important_urgent", "focused": true, "note": "示例：确认人数和交付范围"},
+    {"title": "周五复盘获客渠道", "category": "每周经营", "quadrant": "ongoing", "focused": false, "note": ""}
+  ]
+}
